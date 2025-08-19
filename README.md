@@ -81,6 +81,9 @@ List Size: 1000 | Avg Time: 36.85 ms | Per-Item: 0.04 ms
 ✅ Basic benchmark completed!
 ```
 
+### Sample Output (Mac M3 Air 16GB):
+<img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/bb629f07-10d4-4fac-b5f2-90da5f7e2569" />
+
 ### Advanced Benchmark Mode
 
 Comprehensive benchmarking with detailed statistics:
@@ -166,12 +169,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: [GitHub Discussions](https://github.com/devendrafyle/timezone-benchmark/discussions)
 - **Wiki**: [Project Wiki](https://github.com/devendrafyle/timezone-benchmark/wiki)
 
-## 🔄 Version History
 
-- **v1.0.0** - Initial benchmark implementation
-- **v1.1.0** - Added statistical analysis and multiple timezone support
-- **v1.2.0** - Performance optimizations and enhanced metrics
-
----
-
-**Note**: This benchmark is designed for development and testing purposes. Always test performance in your specific use case and environment.
+**Note**: This benchmark is designed for development and testing purposes. You can always test performance in your specific use case and environment.
